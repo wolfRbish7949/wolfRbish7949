@@ -219,6 +219,25 @@ I'm a **CSE Engineer** and passionate **Full Stack Developer** with expertise in
 
 ---
 
+## 📊 GitHub Live Statistics
+
+<div align="center">
+
+### My GitHub Activity & Stats
+
+**For live, real-time statistics of my GitHub profile, visit:**
+
+[![GitHub Profile](https://img.shields.io/badge/View_My_Profile-wolfRbish7949-181717?style=for-the-badge&logo=github)](https://github.com/wolfRbish7949)
+
+**Quick Links to My Stats:**
+- 🔗 [All Repositories](https://github.com/wolfRbish7949?tab=repositories)
+- 📈 [Contribution Graph](https://github.com/wolfRbish7949)
+- ⭐ [Starred Repositories](https://github.com/wolfRbish7949?tab=stars)
+
+</div>
+
+---
+
 ## 💻 Tech Stack & Skills
 
 ### **Languages**

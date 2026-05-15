@@ -272,25 +272,6 @@ I'm a **CSE Engineer** and passionate **Full Stack Developer** with expertise in
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### My GitHub Statistics
-
-| Metric | Value |
-|--------|-------|
-| **Total Contributions** | 1000+ |
-| **Repositories** | 15+ |
-| **Followers** | Growing 📈 |
-| **Top Language** | Python & JavaScript |
-
-**Note:** For live GitHub stats and activity, visit my [GitHub Profile](https://github.com/wolfRbish7949)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">

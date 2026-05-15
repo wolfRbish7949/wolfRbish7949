@@ -35,11 +35,11 @@ I'm a **CSE Engineer** and passionate **Full Stack Developer** with expertise in
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Flagship Projects
 
 ### 🔥 **1. PRAMAN - Proof of Reality and Media Authenticity Network**
 
-**Status:** 🚀 Currently Developing
+**Status:** 🚀 Currently Developing | **Tech Stack:** Solidity, Python, React, TensorFlow, IPFS
 
 *The Global Digital Trust Infrastructure*
 
@@ -51,11 +51,7 @@ I'm a **CSE Engineer** and passionate **Full Stack Developer** with expertise in
 - ✅ **Truth DNA** - PRNU sensor fingerprinting to prove authentic device origin
 - ✅ **Global Trust Grid** - Decentralized network for real-time Trust Scores & Digital Authenticity Certificates
 
-**Tech Stack:** 
-- Blockchain: Solidity, Ethereum, Polygon, IPFS
-- AI/ML: Python, TensorFlow, OpenCV
-- Frontend: React.js, Tailwind CSS (Apple-level Glassmorphism UI)
-- Backend: Node.js, Express.js
+**Problem Solved:** Combat deepfakes and misinformation with a tamper-proof, decentralized verification layer for all digital media.
 
 **Tagline:** *Proof. Trust. Truth.* — Creating a future where every digital content carries proof of truth.
 
@@ -63,7 +59,7 @@ I'm a **CSE Engineer** and passionate **Full Stack Developer** with expertise in
 
 ### 🎖️ **2. Advanced Fire & Smoke Detection & Response System (Indian Army Classification)**
 
-**Status:** ✅ Completed | 🔒 Classified Project
+**Status:** ✅ Completed | **Tech Stack:** IoT, Python, Computer Vision, Real-time Processing
 
 *An IoT-Based Intelligent Security Solution*
 
@@ -74,19 +70,22 @@ I'm a **CSE Engineer** and passionate **Full Stack Developer** with expertise in
 **Current Assignment:**
 - 🚁 Building a **High-End Drone Security System** with advanced recovery modules
 - 🔐 Next-gen threat detection and autonomous response capabilities
+- 📡 Real-time threat analysis and autonomous evasion protocols
+
+**Impact:** Enterprise-grade security infrastructure for critical defense applications.
 
 ---
 
 ### 🤖 **3. The Autonomous Action-Agent (V2)**
 
-**Status:** 🚀 Currently Developing
+**Status:** 🚀 Currently Developing | **Tech Stack:** CrewAI, FastAPI, Llama-3, OpenCV, Raspberry Pi
 
 *Bridging AI and Physical Robotics*
 
 **Core Vision:** Bring AI out of the digital realm and into the physical world with autonomous task execution.
 
 **What's Included:**
-- ✅ **LLM-Powered Task Decomposition** - Voice/text commands → actionable steps
+- ✅ **LLM-Powered Task Decomposition** - Voice/text commands → actionable steps using ReAct framework
 - ✅ **Real-Time Execution Loop** - Hardware sensors execute, LLM continuously adapts
 - ✅ **Edge Intelligence** - Offline operation with Llama-3-8B-GGUF quantized models
 - ✅ **Multi-Agent Coordination** - Analyst, Pilot, and Safety Manager agents working together
@@ -97,24 +96,141 @@ I'm a **CSE Engineer** and passionate **Full Stack Developer** with expertise in
 - 🌾 Agricultural health surveys
 - 👁️ Remote surveillance patrolling
 
-**Tech Stack:**
-- Software: CrewAI, LangGraph, FastAPI, WebSockets
-- Hardware: Raspberry Pi 4 (8GB), NVIDIA Jetson Nano, LiDAR, IMU, Brushless Motors
-- Computer Vision: OpenCV
-- ML: Llama-3-8B-GGUF, TensorFlow
+**Problem Solved:** Enable autonomous decision-making and physical task execution without constant connectivity.
 
 **Tagline:** *Reason. Act. Automate.* — Empowering AI with physical agency.
 
 ---
 
-### 📊 **More Cutting-Edge Projects**
+## 📚 Featured Portfolio Projects
 
-All my projects are available on my **[GitHub](https://github.com/wolfRbish7949)** - featuring:
-- Advanced ML models
-- Blockchain implementations
-- IoT solutions
-- Full-stack applications
-- Computer vision systems
+### 🌟 **1. Readsy - Modern Book E-commerce Platform**
+<div>
+
+**Repository:** [wolfRbish7949/readsy](https://github.com/wolfRbish7949/readsy)
+
+**Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFA500?style=flat&logo=firebase&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Description:** A modern, responsive e-commerce platform built for selling books online with beautiful UI and Rajasthani-inspired design elements.
+
+**Key Features:**
+- 🎨 Modern, responsive design with Tailwind CSS
+- 🔍 Advanced search & real-time filtering
+- 📚 Smart book categorization system
+- 🛒 Persistent shopping cart with secure payments
+- 👤 Firebase Authentication with Google OAuth
+- 📱 Mobile-first responsive design
+- 🔔 Toast notifications & real-time analytics
+- 🎭 Beautiful animations with Framer Motion
+
+**Language Composition:** ![JavaScript 98.9%](https://img.shields.io/badge/JavaScript-98.9%25-F7DF1E?style=flat)
+
+</div>
+
+---
+
+### 📊 **2. Diet Calculator - Hostel Mess Expense Tracker**
+<div>
+
+**Repository:** [wolfRbish7949/diet-calculator](https://github.com/wolfRbish7949/diet-calculator)
+
+**Tech Stack:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Chart.js](https://img.shields.io/badge/Chart.js-36A2EB?style=flat&logo=chartdotjs&logoColor=white)
+
+**Description:** A simple yet powerful web application for hostel students to track their mess diet charges and generate detailed reports.
+
+**Key Features:**
+- 📝 Record daily meal charges (breakfast, lunch, dinner)
+- 📊 Visualize expenses with interactive charts
+- 🔍 Filter records by day, week, or month
+- 📥 Export records to Excel
+- 📧 Email reports to students
+- 💾 Local storage for data persistence
+- 📱 Responsive design
+
+**Language Composition:** ![JavaScript 55.2%](https://img.shields.io/badge/JavaScript-55.2%25-F7DF1E?style=flat) ![HTML 41.6%](https://img.shields.io/badge/HTML-41.6%25-E34F26?style=flat) ![CSS 3.2%](https://img.shields.io/badge/CSS-3.2%25-1572B6?style=flat)
+
+</div>
+
+---
+
+### ⛓️ **3. Hyperswitch - Open Source Payments Switch**
+<div>
+
+**Repository:** [wolfRbish7949/hyperswitch](https://github.com/wolfRbish7949/hyperswitch)
+
+**Tech Stack:** ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Description:** An open-source payments switch written in Rust to make payments fast, reliable and affordable. A composable payment infrastructure for modern fintech.
+
+**Key Features:**
+- ⚡ Lightning-fast payment processing with Rust
+- 🔄 Intelligent routing across multiple payment processors
+- 💰 Revenue recovery with smart retry strategies
+- 🔐 PCI-compliant vault for secure payment storage
+- 📊 Advanced cost observability & analytics
+- 🌍 Support for 200+ payment methods globally
+- 🎯 Real-time reconciliation & reporting
+- 🔗 Multiple payment processor integrations
+
+**Problem Solved:** Provide businesses with a flexible, open-source alternative to proprietary payment platforms with full control and transparency.
+
+**Language Composition:** ![Rust 80.5%](https://img.shields.io/badge/Rust-80.5%25-CE422B?style=flat) ![JavaScript 18.6%](https://img.shields.io/badge/JavaScript-18.6%25-F7DF1E?style=flat)
+
+</div>
+
+---
+
+### 🤖 **4. MarnAI - AI-Powered Recruitment System**
+<div>
+
+**Repository:** [wolfRbish7949/MarnAI](https://github.com/wolfRbish7949/MarnAI)
+
+**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+**Description:** An AI-based recruitment model powered by multi-agent AI system. Automates candidate matching, shortlisting, and interview scheduling.
+
+**Key Features:**
+- 🤖 Multi-agent AI system for recruitment automation
+- 📄 Document analysis & resume parsing (PDF & Text)
+- 🎯 Intelligent skills matching between jobs & candidates
+- 📊 Match scoring with detailed analytics
+- 📱 Interactive dashboard with real-time metrics
+- 📧 Email notifications & interview scheduling
+- 📈 Recruitment pipeline visualization
+- 🔍 Advanced candidate filtering & ranking
+
+**Problem Solved:** Automate tedious recruitment tasks using AI agents, reducing time-to-hire and improving candidate quality.
+
+**Language Composition:** ![HTML 42.9%](https://img.shields.io/badge/HTML-42.9%25-E34F26?style=flat) ![JavaScript 30.3%](https://img.shields.io/badge/JavaScript-30.3%25-F7DF1E?style=flat) ![CSS 15.4%](https://img.shields.io/badge/CSS-15.4%25-1572B6?style=flat) ![Python 10.2%](https://img.shields.io/badge/Python-10.2%25-3776AB?style=flat)
+
+</div>
+
+---
+
+### 🏛️ **5. E-Mitra - Government Services Portal**
+<div>
+
+**Repository:** [mnchoudhary27/E-mitra](https://github.com/mnchoudhary27/E-mitra)
+
+**Tech Stack:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Description:** A modern web application for managing government services and citizen interactions with secure authentication and intuitive UI.
+
+**Key Features:**
+- 👤 User authentication with email verification
+- 🔑 Password visibility toggle & forgot password
+- 💾 Remember me functionality
+- ✅ Form validation & error handling
+- 🎨 Modern responsive design
+- 🔔 Toast notifications for user feedback
+- 📱 Mobile-first responsive UI
+- 🎪 Clean and intuitive interface
+
+**Problem Solved:** Streamline citizen-government interactions with a modern, user-friendly digital platform for service delivery.
+
+**Language Composition:** ![HTML 74.8%](https://img.shields.io/badge/HTML-74.8%25-E34F26?style=flat) ![CSS 14.8%](https://img.shields.io/badge/CSS-14.8%25-1572B6?style=flat) ![PHP 6.3%](https://img.shields.io/badge/PHP-6.3%25-777BB4?style=flat) ![JavaScript 4.1%](https://img.shields.io/badge/JavaScript-4.1%25-F7DF1E?style=flat)
+
+</div>
 
 ---
 
@@ -126,17 +242,21 @@ All my projects are available on my **[GitHub](https://github.com/wolfRbish7949)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **AI/ML & Data Science**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### **Blockchain & Web3**
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F7931E?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -148,8 +268,10 @@ All my projects are available on my **[GitHub](https://github.com/wolfRbish7949)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFA500?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### **IoT & Hardware**
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22D35?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -161,6 +283,7 @@ All my projects are available on my **[GitHub](https://github.com/wolfRbish7949)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -230,6 +353,7 @@ All my projects are available on my **[GitHub](https://github.com/wolfRbish7949)
 - 🚀 **Future Collaborations** - Commissioned for advanced drone security system
 - 💡 **Innovation Focused** - Multiple cutting-edge projects in development
 - 🏆 **Problem Solver** - Building solutions for real-world challenges
+- 📚 **Portfolio Projects** - 5+ production-ready applications showcasing full-stack expertise
 
 ---
 
@@ -239,6 +363,7 @@ All my projects are available on my **[GitHub](https://github.com/wolfRbish7949)
 - 🤖 Scaling **autonomous robotics** capabilities with Action-Agent V2
 - 🔐 Expanding **drone security & recovery systems** for defense applications
 - 💡 Exploring emerging **AI trends** and **Web3 innovations**
+- 🛠️ Contributing to **open-source projects** like Hyperswitch
 
 ---
 
@@ -271,5 +396,5 @@ I'm always excited about:
 
 <!---
 wolfRbish7949/wolfRbish7949 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-This README was designed to showcase innovation, expertise, and impact.
+This README was designed to showcase innovation, expertise, and impact with comprehensive portfolio projects.
 --->

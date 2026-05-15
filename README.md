@@ -105,7 +105,6 @@ I'm a **CSE Engineer** and passionate **Full Stack Developer** with expertise in
 ## 📚 Featured Portfolio Projects
 
 ### 🌟 **1. Readsy - Modern Book E-commerce Platform**
-<div>
 
 **Repository:** [wolfRbish7949/readsy](https://github.com/wolfRbish7949/readsy)
 
@@ -125,12 +124,9 @@ I'm a **CSE Engineer** and passionate **Full Stack Developer** with expertise in
 
 **Language Composition:** ![JavaScript 98.9%](https://img.shields.io/badge/JavaScript-98.9%25-F7DF1E?style=flat)
 
-</div>
-
 ---
 
 ### 📊 **2. Diet Calculator - Hostel Mess Expense Tracker**
-<div>
 
 **Repository:** [wolfRbish7949/diet-calculator](https://github.com/wolfRbish7949/diet-calculator)
 
@@ -149,12 +145,9 @@ I'm a **CSE Engineer** and passionate **Full Stack Developer** with expertise in
 
 **Language Composition:** ![JavaScript 55.2%](https://img.shields.io/badge/JavaScript-55.2%25-F7DF1E?style=flat) ![HTML 41.6%](https://img.shields.io/badge/HTML-41.6%25-E34F26?style=flat) ![CSS 3.2%](https://img.shields.io/badge/CSS-3.2%25-1572B6?style=flat)
 
-</div>
-
 ---
 
 ### ⛓️ **3. Hyperswitch - Open Source Payments Switch**
-<div>
 
 **Repository:** [wolfRbish7949/hyperswitch](https://github.com/wolfRbish7949/hyperswitch)
 
@@ -176,12 +169,9 @@ I'm a **CSE Engineer** and passionate **Full Stack Developer** with expertise in
 
 **Language Composition:** ![Rust 80.5%](https://img.shields.io/badge/Rust-80.5%25-CE422B?style=flat) ![JavaScript 18.6%](https://img.shields.io/badge/JavaScript-18.6%25-F7DF1E?style=flat)
 
-</div>
-
 ---
 
 ### 🤖 **4. MarnAI - AI-Powered Recruitment System**
-<div>
 
 **Repository:** [wolfRbish7949/MarnAI](https://github.com/wolfRbish7949/MarnAI)
 
@@ -203,12 +193,9 @@ I'm a **CSE Engineer** and passionate **Full Stack Developer** with expertise in
 
 **Language Composition:** ![HTML 42.9%](https://img.shields.io/badge/HTML-42.9%25-E34F26?style=flat) ![JavaScript 30.3%](https://img.shields.io/badge/JavaScript-30.3%25-F7DF1E?style=flat) ![CSS 15.4%](https://img.shields.io/badge/CSS-15.4%25-1572B6?style=flat) ![Python 10.2%](https://img.shields.io/badge/Python-10.2%25-3776AB?style=flat)
 
-</div>
-
 ---
 
 ### 🏛️ **5. E-Mitra - Government Services Portal**
-<div>
 
 **Repository:** [mnchoudhary27/E-mitra](https://github.com/mnchoudhary27/E-mitra)
 
@@ -229,8 +216,6 @@ I'm a **CSE Engineer** and passionate **Full Stack Developer** with expertise in
 **Problem Solved:** Streamline citizen-government interactions with a modern, user-friendly digital platform for service delivery.
 
 **Language Composition:** ![HTML 74.8%](https://img.shields.io/badge/HTML-74.8%25-E34F26?style=flat) ![CSS 14.8%](https://img.shields.io/badge/CSS-14.8%25-1572B6?style=flat) ![PHP 6.3%](https://img.shields.io/badge/PHP-6.3%25-777BB4?style=flat) ![JavaScript 4.1%](https://img.shields.io/badge/JavaScript-4.1%25-F7DF1E?style=flat)
-
-</div>
 
 ---
 
@@ -287,15 +272,20 @@ I'm a **CSE Engineer** and passionate **Full Stack Developer** with expertise in
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolfRbish7949&show_icons=true&theme=radical&hide_border=true&count_private=true)
+### My GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfRbish7949&layout=compact&theme=radical&hide_border=true)
+| Metric | Value |
+|--------|-------|
+| **Total Contributions** | 1000+ |
+| **Repositories** | 15+ |
+| **Followers** | Growing 📈 |
+| **Top Language** | Python & JavaScript |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wolfRbish7949&theme=radical&hide_border=true)
+**Note:** For live GitHub stats and activity, visit my [GitHub Profile](https://github.com/wolfRbish7949)
 
 </div>
 
@@ -390,7 +380,7 @@ I'm always excited about:
 
 **📍 Open to opportunities | 💼 Available for consultation | 🚀 Let's build something amazing together!**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=wolfRbish7949&color=blueviolet)](https://github.com/wolfRbish7949)
+[![Profile Views](https://komarev.com/ghpvc/?username=wolfRbish7949&color=blueviolet&style=flat-square)](https://github.com/wolfRbish7949)
 
 </div>
 
